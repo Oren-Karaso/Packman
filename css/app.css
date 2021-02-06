@@ -1,0 +1,30 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+.cell {
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  font-size: 1.5em;
+}
+
+/* .formLine {
+  margin:10px;
+  padding:10px;
+  background-color: cornflowerblue;
+} */
+
+.modal {
+  display: none;
+  width: fit-content;
+  height: fit-content;
+  border: rgb(71, 71, 71) solid 2px;
+  background-color: blanchedalmond;
+  color: black;
+}
+
+.ghost {
+  color: white;
+}
